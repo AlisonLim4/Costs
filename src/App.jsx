@@ -9,6 +9,7 @@ import Container from "./components/layout/Container/Container";
 import NavBar from "./components/layout/NavBar/NavBar";
 import Footer from "./components/layout/Footer/Footer";
 import Projects from "./components/pages/Projects/Projects";
+import Project from "./components/pages/Project/Project";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
             <Route path="/company" element={<Company />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/newproject" element={<NewProject />} />
+            <Route path="/project/:id" element={<Project />} />
           </Routes>
         </Container>
         <Footer />
