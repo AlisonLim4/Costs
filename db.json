@@ -13,7 +13,7 @@
     },
     {
       "name": "Desenvolvimento site Beco",
-      "budget": "1500",
+      "budget": "15000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -23,11 +23,11 @@
       "id": 2
     },
     {
-      "name": "Cabeamento do escritório",
-      "budget": "3000",
+      "name": "Cabeamento do escritório(atualizado)",
+      "budget": "13000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "service": [],
