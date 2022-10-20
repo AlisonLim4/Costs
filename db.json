@@ -1,52 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "Design Site Beco",
-      "budget": "2000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 110,
-      "services": [
-        {
-          "name": "novo serviço",
-          "cost": "100",
-          "description": "Faz isso ai",
-          "id": "05a95962-c66d-40b2-800f-bd343c3c9629"
-        },
-        {
-          "name": "Novo serviço 2",
-          "cost": "10",
-          "description": "Negocinho rapido",
-          "id": "fe7b6a7d-aa29-4e6b-bdce-cceba94e3f94"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "name": "Desenvolvimento site Beco",
-      "budget": "15000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Cabeamento do escritório(atualizado)",
-      "budget": "13000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
