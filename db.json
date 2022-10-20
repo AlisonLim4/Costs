@@ -7,8 +7,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "service": [],
+      "cost": 110,
+      "services": [
+        {
+          "name": "novo serviço",
+          "cost": "100",
+          "description": "Faz isso ai",
+          "id": "05a95962-c66d-40b2-800f-bd343c3c9629"
+        },
+        {
+          "name": "Novo serviço 2",
+          "cost": "10",
+          "description": "Negocinho rapido",
+          "id": "fe7b6a7d-aa29-4e6b-bdce-cceba94e3f94"
+        }
+      ],
       "id": 1
     },
     {
@@ -19,7 +32,7 @@
         "name": "Desenvolvimento"
       },
       "cost": 0,
-      "service": [],
+      "services": [],
       "id": 2
     },
     {
@@ -30,7 +43,7 @@
         "name": "Design"
       },
       "cost": 0,
-      "service": [],
+      "services": [],
       "id": 3
     }
   ],
